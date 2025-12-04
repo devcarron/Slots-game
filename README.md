@@ -160,6 +160,6 @@ LinkedIn: https://www.linkedin.com/in/danigamezfranco/
 Stack Overflow: https://stackoverflow.com/users/3723993/danziger
 
 ## Contact
-- [Twitter](https://x.com/blacksky_jose)
-- [Telegram](https://t.me/blacksky_jose)
-- [Discord](https://discord.gg/blacksky_jose)
+- [Twitter](https://x.com/gamedevcarron)
+- [Telegram](https://t.me/gamedevcarron)
+- [Discord](https://discord.gg/gamedevcarron)
